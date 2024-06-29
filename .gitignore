@@ -6,3 +6,4 @@ nvim
 spell/
 lazy-lock.json
 old_init.lua
+init.lua.bak
